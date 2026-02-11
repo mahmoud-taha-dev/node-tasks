@@ -165,11 +165,6 @@ export function createRateLimiter(limit: number, interval: number) {
 }
 ```
 
-````
-
-
-
-
 ## Setup
 
 1. Install dependencies:
